@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "rn-starter-1",
-    "slug": "rn-starter-1",
+    "name": "ಶ್ರೀ ಆರೂಢ ಸಂಗನಬಸವೇಶ್ವರ",
+    "slug": "asg",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/iconO.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash1.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/iconO.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "asb.com"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/iconO.png"
     }
   }
 }
